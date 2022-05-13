@@ -1,0 +1,248 @@
+.item {
+    padding: 5px;
+    background-image: linear-gradient(to right,
+            red,
+            green,
+            yellow);
+    text-align: center;
+
+}
+
+.item1 {
+    border: solid 5px red;
+    background-color: rgb(82, 133, 116);
+    width: 50%;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    display: grid;
+    justify-content: center;
+    margin-left: 270px;
+
+}
+
+
+.text {
+
+    background-color: aquamarine;
+
+
+}
+
+.text1 {
+    background-color: aqua;
+    border: solid green 2px;
+    width: fit-content;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    float: right;
+    margin-right: 70px;
+}
+
+
+.text2 {
+    background-color: aqua;
+    border: solid green 2px;
+    width: fit-content;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    float: right;
+    margin-right: 20px;
+}
+
+
+.text3 {
+    background-color: aqua;
+    border: solid green 2px;
+    width: fit-content;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-left: 70px;
+}
+
+
+.text4 {
+    background-color: aqua;
+    border: solid green 2px;
+    width: fit-content;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: relative;
+    left: 475px;
+
+}
+
+.jee {
+    padding: 5px;
+    background-image: linear-gradient(to right,
+            red,
+            orange,
+
+            yellow,
+            red);
+    text-align: center;
+
+}
+
+.name {
+    border: solid black 2px;
+    padding: 10px;
+    background-image: radial-gradient(blue,
+
+            green)
+}
+
+.name1 {
+    border: 2px solid red;
+    color: red;
+    background-color: yellow;
+    width: 200px;
+    text-align: center;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    position: relative;
+
+    left: 100px;
+    top: 70px;
+
+}
+
+.name2 {
+    border: 2px solid red;
+    color: red;
+    background-color: yellow;
+    width: 200px;
+    text-align: center;
+
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: relative;
+    left: 400px;
+    top: 15px;
+
+}
+
+.name3 {
+    border: 2px solid red;
+    color: red;
+    background-color: yellow;
+    width: 200px;
+    text-align: center;
+
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: relative;
+    bottom: 45px;
+    left: 700px;
+
+
+}
+
+.name4 {
+    border: 2px solid red;
+    color: red;
+    background-color: yellow;
+    text-align: center;
+    width: 200px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    position: relative;
+    bottom: 100px;
+    left: 1000px;
+}
+
+
+.items {
+    background-color: red;
+    color: aliceblue;
+    height: 30px;
+    text-align: center;
+    grid-column-start: 1;
+    grid-column-end: 7;
+}
+
+
+
+
+.items1 {
+    background-color: green;
+    width: 380px;
+    text-align: center;
+    height: 60px;
+
+}
+
+.items2 {
+    background-color: blue;
+    width: 380px;
+    height: 60px;
+    margin-top: -60px;
+    margin-left: 400px;
+    text-align: center;
+
+}
+
+.items3 {
+    background-color: purple;
+    margin-top: -60px;
+    width: 380px;
+    height: 60px;
+    margin-left: 800px;
+    text-align: center;
+
+}
+
+.items4 {
+    background-color: orange;
+    width: 89%;
+    margin-top: 20px;
+    height: 100px;
+}
+
+.items5 {
+    background-color: black;
+    color: aliceblue;
+    width: 10%;
+    text-align: center;
+    margin-left: 90%;
+    margin-top: -180px;
+}
+
+.items6 {
+    background-color: aqua;
+
+    text-align: center;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.border {
+    border: solid 2px black;
+}
+
+
+
+
+
+
+
+
+
+
